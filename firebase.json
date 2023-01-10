@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "admin-repro-capstone",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
